@@ -9,6 +9,13 @@ permalink: /Books Reports/
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
+<form action="/search.html" method="get">
+  <label for="search_box">Search</label>
+  <input type="text" id="search_box" name="query">
+  <input type="submit" value="search">
+</form>
+
+
   {%- if site.posts.size > 0 -%}
     <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Books" }}</h2> --> 
     <ul class="post-list">
