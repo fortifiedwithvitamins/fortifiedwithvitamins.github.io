@@ -1,39 +1,8 @@
 ---
 layout: default
-title: Books Notes
-permalink: /Books Notes/
+title: Thoughts
+permalink: /Thoughts/
 ---
-<h1>Why I Write Book Notes</h1>
-
-<p1>
-  Recreational reading is something I enjoy, but also find challenging. I often struggle in following the author from page to page and remembering what a book is about after I finish it.
-</p1>
-
-<br>
-<br>
-
-<p1>
-   Derek Sivers and Nate Liason both write book reviews which can be found <a href="https://sive.rs/book">here</a> and <a href="https://www.nateliason.com/notes">here</a>. A book review requires reflection and acts as a resource for us to refer to in the future. This is a more active approach to reading, which Ali Abdaal discusses in this <a href="https://www.youtube.com/watch?v=AjoxkxM_I5g">video</a>.
-</p1>
-
-<br>
-<br>
-
-<p1>
-   These resources encouraged me to start writing my own book notes, which can be found below.
-</p1>
-
-<br>
-<br>
-
-<h1>Currently Reading</h1>
-
-<p1>
-<b>How To Not Be Wrong: The Power of Mathematical Thinking</b> by Jordan Ellenberg
-</p1>
-
-<br>
-<br>
 
 <div class="home">
   {%- if page.title -%}
@@ -52,7 +21,7 @@ permalink: /Books Notes/
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
-        {%- if post.tag == "book_note" -%}
+        {%- if post.tag == "thoughts" -%}
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
           <span class="post-meta">{{ post.date | date: date_format }}</span>
           <h3>
