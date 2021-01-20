@@ -1,7 +1,7 @@
 ---
 layout: "post"
-title: "Lesson 2: The Present is a Present"
-permalink: "Lesson 2"
+title: "Lesson x: The Present is a Present"
+permalink: "Lesson x"
 tag: "thoughts"
 excerpt: ""
 ---

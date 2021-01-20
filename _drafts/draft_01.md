@@ -1,10 +1,11 @@
 ---
 layout: "post"
-title: "Learning 1: Confidence Only Comes From Experience"
+title: "Learning 1: Confidence only comes from experience"
 permalink: "Learning 1"
 tag: "learning"
 excerpt: ""
 ---
+post: 2021-01-18-blog-06
 
 Mark Twain said that we would end up regretting the things we didn't do more than the things we did. And I think he was right. 
 

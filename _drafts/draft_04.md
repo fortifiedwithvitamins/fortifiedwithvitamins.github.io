@@ -1,7 +1,7 @@
 ---
 layout: "post"
-title: "Lesson 4: Non-decisions are still decisions"
-permalink: "Lesson 4"
+title: "Lesson x: Non-decisions are still decisions"
+permalink: "Lesson x"
 tag: "thoughts"
 excerpt: ""
 ---

@@ -1,7 +1,7 @@
 ---
 layout: "post"
-title: "Lesson 5: You're never actually ready"
-permalink: "Lesson 5"
+title: "Lesson x: You're never actually ready"
+permalink: "Lesson x"
 tag: "thoughts"
 excerpt: ""
 ---
